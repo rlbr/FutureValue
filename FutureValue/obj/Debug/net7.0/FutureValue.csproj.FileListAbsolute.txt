@@ -1,0 +1,8 @@
+/home/raphael/Documents/school/WIP/CS/FutureValue/FutureValue/obj/Debug/net7.0/FutureValue.csproj.AssemblyReference.cache
+/home/raphael/Documents/school/WIP/CS/FutureValue/FutureValue/obj/Debug/net7.0/FutureValue.GeneratedMSBuildEditorConfig.editorconfig
+/home/raphael/Documents/school/WIP/CS/FutureValue/FutureValue/obj/Debug/net7.0/FutureValue.AssemblyInfoInputs.cache
+/home/raphael/Documents/school/WIP/CS/FutureValue/FutureValue/obj/Debug/net7.0/FutureValue.AssemblyInfo.cs
+/home/raphael/Documents/school/WIP/CS/FutureValue/FutureValue/obj/Debug/net7.0/FutureValue.csproj.CoreCompileInputs.cache
+/home/raphael/Documents/school/WIP/CS/FutureValue/FutureValue/obj/Debug/net7.0/FutureValue.MvcApplicationPartsAssemblyInfo.cache
+/home/raphael/Documents/school/WIP/CS/FutureValue/FutureValue/obj/Debug/net7.0/FutureValue.RazorAssemblyInfo.cache
+/home/raphael/Documents/school/WIP/CS/FutureValue/FutureValue/obj/Debug/net7.0/FutureValue.RazorAssemblyInfo.cs
