@@ -5,14 +5,6 @@ public class FutureValueModel
     public decimal MonthlyInvestment { get; set; }
     public int Years { get; set; }
     public decimal Apr { get; set; }
-
-    public FutureValueModel(decimal monthlyInvestment, int years, decimal apr)
-    {
-        MonthlyInvestment = monthlyInvestment;
-        Years = years;
-        Apr = apr;
-    }
-
     public decimal CalculateFutureValue()
     {
         int months = Years * 12;
